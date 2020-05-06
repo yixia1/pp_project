@@ -1,5 +1,2 @@
-# pp_project
-This is project information  for 2020 spring course software engineering 
+队名：渣梨       成员：李夏，查方慧       项目名称：四则运算         开发语言：C      开发环境：Dev-C++
 
-
-任务：修改 Team information 文件，按照里面的示例添加小组信息
